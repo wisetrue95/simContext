@@ -48,7 +48,6 @@ python merge_6feature.py --book_dir 'book_dataset/book-json' --feature_dir 'book
 Search TOP10 results based on cosine similarity between a query and all book features.
 ```
 python search_top10.py --book_feature_dir 'book_dataset/book-feature'
-                       --book_meta 'book_dataset/number_title_id.txt' 
                        --query '알퐁스도데_마지막수업'
 ```
 
