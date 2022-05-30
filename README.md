@@ -51,4 +51,4 @@ python search_top10.py --book_feature_dir 'book_dataset/book-feature'
                        --query '알퐁스도데_마지막수업'
 ```
 
-![result image](result.png "search result")
+![result image](result.jpg "search result")
